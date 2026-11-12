@@ -1,0 +1,12 @@
+{
+  "background_color": "#4c983b",
+  "description": "STUDY-TIMER",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Streak",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Tracker",
+  "start_url": "/App.html",
+  "theme_color": "#465dc9"
+}
